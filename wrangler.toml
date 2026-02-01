@@ -4,7 +4,7 @@ compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://101010.cn8.ug.link"
-PORT = "8096"
+PORT = "8989"
 USERNAME = "18172587015"
 
 [[kv_namespaces]]
